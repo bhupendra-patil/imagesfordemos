@@ -4,3 +4,11 @@
 # COMMAND ----------
 
 # MAGIC %pip install mlflow
+
+# COMMAND ----------
+
+
+
+# COMMAND ----------
+
+# MAGIC %sql
