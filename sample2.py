@@ -22,3 +22,12 @@ file_contents = file_client.read_file()
 
 # Print the contents of the file
 print(file_contents)
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC ## jst adding commetns
+
+# COMMAND ----------
+
+
