@@ -12,3 +12,8 @@
 # COMMAND ----------
 
 # MAGIC %sql
+
+# COMMAND ----------
+
+vxvc
+
